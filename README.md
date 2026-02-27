@@ -50,10 +50,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ragod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ragod" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgodiyal&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="rgodiyal" /></p>
+<p align="center">
+  <img src="https://githubreadme.vercel.app/api?username=rgodiyal&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgodiyal&show_icons=true&locale=en&cache_seconds=1800" alt="rgodiyal" /></p>
-
-<br/><br/><br/><br/><br/>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rgodiyal" alt="rgodiyal" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rgodiyal&theme=default" alt="GitHub Streak" />
+</p>
